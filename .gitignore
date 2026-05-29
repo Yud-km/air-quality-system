@@ -1,0 +1,17 @@
+Debug/
+Release/
+build/
+
+*.o
+*.d
+*.obj
+*.elf
+*.hex
+*.bin
+
+.vscode/
+.idea/
+
+*.tmp
+*.bak
+*.log

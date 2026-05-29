@@ -1,0 +1,12 @@
+C:\Users\PC\Downloads\AirQualityMonitor_WinForms\AirQualityMonitor\bin\Debug\AirQualityMonitor.exe
+C:\Users\PC\Downloads\AirQualityMonitor_WinForms\AirQualityMonitor\bin\Debug\AirQualityMonitor.pdb
+C:\Users\PC\Downloads\AirQualityMonitor_WinForms\AirQualityMonitor\obj\Debug\AirQualityMonitor.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\AirQualityMonitor_WinForms\AirQualityMonitor\obj\Debug\AirQualityMonitor.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\AirQualityMonitor_WinForms\AirQualityMonitor\obj\Debug\AirQualityMonitor.exe
+C:\Users\PC\Downloads\AirQualityMonitor_WinForms\AirQualityMonitor\obj\Debug\AirQualityMonitor.pdb
+D:\UET courses\Ung dung may tinh trong do luong\AirQualityMonitor_WinForms\AirQualityMonitor\bin\Debug\AirQualityMonitor.exe
+D:\UET courses\Ung dung may tinh trong do luong\AirQualityMonitor_WinForms\AirQualityMonitor\bin\Debug\AirQualityMonitor.pdb
+D:\UET courses\Ung dung may tinh trong do luong\AirQualityMonitor_WinForms\AirQualityMonitor\obj\Debug\AirQualityMonitor.csproj.AssemblyReference.cache
+D:\UET courses\Ung dung may tinh trong do luong\AirQualityMonitor_WinForms\AirQualityMonitor\obj\Debug\AirQualityMonitor.csproj.CoreCompileInputs.cache
+D:\UET courses\Ung dung may tinh trong do luong\AirQualityMonitor_WinForms\AirQualityMonitor\obj\Debug\AirQualityMonitor.exe
+D:\UET courses\Ung dung may tinh trong do luong\AirQualityMonitor_WinForms\AirQualityMonitor\obj\Debug\AirQualityMonitor.pdb
